@@ -19,8 +19,18 @@ function draw(){
     let c = color('#32CD32')
     fill(c);
     noStroke();
-    
-line(30, 20, 85, 75);
+    fill(0, 0, 128);
+    stroke(0, 0, 128);
+    rect(82,30,300,20);
+    fill(0, 0, 128);
+    stroke(0, 0, 128);
+    rect(402,30,300,20);
+    fill(0, 0, 128);
+    stroke(0, 0, 128);
+    rect(80,390,300,20);
+    fill(0, 0, 128);
+    stroke(0, 0, 128);
+    rect(80,390,300,20);
 
 }
 
